@@ -1,0 +1,3 @@
+AssistantSchedule.MainActivity;assistantschedule.MainActivity
+AssistantSchedule.Calendar;assistantschedule.Calendar
+AssistantSchedule.ConfirmDates;assistantschedule.ConfirmDates

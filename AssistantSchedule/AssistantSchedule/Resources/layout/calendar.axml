@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <TextView
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/DisplayMonth"
+        android:textAlignment="inherit"
+        android:gravity="center" />
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tableLayout1">
+        <TableRow
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:id="@+id/tableRow1">
+            <CheckBox
+                android:text="1"
+                android:layout_column="0"
+                android:id="@+id/CB1" />
+            <CheckBox
+                android:text="2"
+                android:layout_column="1"
+                android:id="@+id/CB2"
+                android:layout_width="wrap_content" />
+            <CheckBox
+                android:text="3"
+                android:layout_column="2"
+                android:id="@+id/CB3"
+                android:layout_width="wrap_content" />
+            <CheckBox
+                android:text="4"
+                android:layout_column="3"
+                android:id="@+id/CB4"
+                android:layout_width="wrap_content" />
+            <CheckBox
+                android:text="5"
+                android:layout_column="4"
+                android:id="@+id/CB5"
+                android:layout_width="wrap_content" />
+            <CheckBox
+                android:text="6"
+                android:layout_column="5"
+                android:id="@+id/CB6"
+                android:layout_width="wrap_content" />
+            <CheckBox
+                android:text="7"
+                android:layout_column="6"
+                android:id="@+id/CB7"
+                android:layout_width="wrap_content" />
+        </TableRow>
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090"
+            android:fitsSystemWindows="true" />
+        <TableRow
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:id="@+id/tableRow2">
+            <CheckBox
+                android:text="8"
+                android:layout_column="0"
+                android:id="@+id/CB8" />
+            <CheckBox
+                android:text="9"
+                android:layout_column="1"
+                android:id="@+id/CB9" />
+            <CheckBox
+                android:text="10"
+                android:layout_column="2"
+                android:id="@+id/CB10" />
+            <CheckBox
+                android:text="11"
+                android:layout_column="3"
+                android:id="@+id/CB11" />
+            <CheckBox
+                android:text="12"
+                android:layout_column="4"
+                android:id="@+id/CB12" />
+            <CheckBox
+                android:text="13"
+                android:layout_column="5"
+                android:id="@+id/CB13" />
+            <CheckBox
+                android:text="14"
+                android:layout_column="6"
+                android:id="@+id/CB14" />
+        </TableRow>
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+        <TableRow
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:id="@+id/tableRow3">
+            <CheckBox
+                android:text="15"
+                android:layout_column="0"
+                android:id="@+id/CB15"
+                android:layout_width="wrap_content" />
+            <CheckBox
+                android:text="16"
+                android:layout_column="1"
+                android:id="@+id/CB16" />
+            <CheckBox
+                android:text="17"
+                android:layout_column="2"
+                android:id="@+id/CB17" />
+            <CheckBox
+                android:text="18"
+                android:layout_column="3"
+                android:id="@+id/CB18" />
+            <CheckBox
+                android:text="19"
+                android:layout_column="4"
+                android:id="@+id/CB19" />
+            <CheckBox
+                android:text="20"
+                android:layout_column="5"
+                android:id="@+id/CB20" />
+            <CheckBox
+                android:text="21"
+                android:layout_column="6"
+                android:id="@+id/CB21" />
+        </TableRow>
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+        <TableRow
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:id="@+id/tableRow4">
+            <CheckBox
+                android:text="22"
+                android:layout_column="0"
+                android:id="@+id/CB22" />
+            <CheckBox
+                android:text="23"
+                android:layout_column="1"
+                android:id="@+id/CB23" />
+            <CheckBox
+                android:text="24"
+                android:layout_column="2"
+                android:id="@+id/CB24" />
+            <CheckBox
+                android:text="25"
+                android:layout_column="3"
+                android:id="@+id/CB25" />
+            <CheckBox
+                android:text="26"
+                android:layout_column="4"
+                android:id="@+id/CB26" />
+            <CheckBox
+                android:text="27"
+                android:layout_column="5"
+                android:id="@+id/CB27" />
+            <CheckBox
+                android:text="28"
+                android:layout_column="6"
+                android:id="@+id/CB28" />
+        </TableRow>
+        <View
+            android:layout_height="2dip"
+            android:background="#FF909090" />
+        <TableRow
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:id="@+id/tableRow5"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+            <CheckBox
+                android:text="29"
+                android:layout_column="0"
+                android:id="@+id/CB29" />
+            <CheckBox
+                android:text="30"
+                android:layout_column="1"
+                android:id="@+id/CB30" />
+            <CheckBox
+                android:text="31"
+                android:layout_column="2"
+                android:id="@+id/CB31" />
+        </TableRow>
+        <View
+            android:layout_height="2.dip"
+            android:background="#FF909090" />
+    </TableLayout>
+    <Button
+        android:text="Submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/submitCalendar" />
+</LinearLayout>

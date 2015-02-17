@@ -1,0 +1,15 @@
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\bin\Debug\AssistantSchedule.dll
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\bin\Debug\AssistantSchedule.pdb
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\bin\Debug\AssistantSchedule.dll.mdb
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\bin\Debug\AssistantSchedule.AssistantSchedule.apk
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\bin\Debug\AssistantSchedule.AssistantSchedule-Signed.apk
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\AssistantSchedule.dll
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\AssistantSchedule.pdb
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\android\bin\AssistantSchedule.AssistantSchedule.apk
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\res\layout\main.xml
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\res\values\strings.xml
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\res\drawable\icon.png
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\res\layout\calendar.xml
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\R.cs.flag
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\uploadflags.txt
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\res\layout\confirmdates.xml
