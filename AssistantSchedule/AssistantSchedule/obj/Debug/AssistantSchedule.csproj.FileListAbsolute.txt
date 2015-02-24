@@ -10,6 +10,9 @@ C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\De
 C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\res\values\strings.xml
 C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\res\drawable\icon.png
 C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\res\layout\calendar.xml
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\res\layout\confirmdates.xml
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\res\layout\eventlist.xml
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\res\layout\callistitem.xml
+C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\res\layout\chooseaccount.xml
 C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\R.cs.flag
 C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\uploadflags.txt
-C:\Users\joelm_000\Documents\Projects\AssistantSchedule\AssistantSchedule\obj\Debug\res\layout\confirmdates.xml

@@ -1,10 +1,12 @@
 ﻿<Properties StartupItem="AssistantSchedule\AssistantSchedule.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (KitKat)" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssistantSchedule\EventList.cs">
     <Files>
-      <File FileName="AssistantSchedule\MainActivity.cs" Line="30" Column="30" />
-      <File FileName="AssistantSchedule\Calendar.cs" Line="9" Column="9" />
-      <File FileName="AssistantSchedule\Resources\values\Strings.xml" Line="1" Column="1" />
+      <File FileName="AssistantSchedule\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="AssistantSchedule\Calendar.cs" Line="1" Column="1" />
+      <File FileName="AssistantSchedule\ConfirmDates.cs" Line="1" Column="1" />
+      <File FileName="AssistantSchedule\ChooseAccount.cs" Line="1" Column="1" />
+      <File FileName="AssistantSchedule\EventList.cs" Line="4" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

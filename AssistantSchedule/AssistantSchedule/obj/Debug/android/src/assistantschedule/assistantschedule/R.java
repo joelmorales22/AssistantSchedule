@@ -49,8 +49,14 @@ public final class R {
         public static final int CB8=0x7f06000b;
         public static final int CB9=0x7f06000c;
         public static final int DisplayMonth=0x7f060000;
-        public static final int myButton=0x7f060029;
-        public static final int spinner3=0x7f060027;
+        public static final int SelectAccount=0x7f06002c;
+        public static final int addSampleEvent=0x7f060029;
+        public static final int calAccountName=0x7f060028;
+        public static final int calDisplayName=0x7f060027;
+        public static final int eventStartDate=0x7f06002e;
+        public static final int eventTitle=0x7f06002d;
+        public static final int myButton=0x7f060031;
+        public static final int spinner3=0x7f06002f;
         public static final int submitCalendar=0x7f060026;
         public static final int tableLayout1=0x7f060001;
         public static final int tableRow1=0x7f060002;
@@ -58,12 +64,17 @@ public final class R {
         public static final int tableRow3=0x7f060012;
         public static final int tableRow4=0x7f06001a;
         public static final int tableRow5=0x7f060022;
-        public static final int textView1=0x7f060028;
+        public static final int textView1=0x7f060030;
+        public static final int tv1=0x7f06002a;
+        public static final int tv2=0x7f06002b;
     }
     public static final class layout {
         public static final int calendar=0x7f030000;
-        public static final int confirmdates=0x7f030001;
-        public static final int main=0x7f030002;
+        public static final int callistitem=0x7f030001;
+        public static final int chooseaccount=0x7f030002;
+        public static final int confirmdates=0x7f030003;
+        public static final int eventlist=0x7f030004;
+        public static final int main=0x7f030005;
     }
     public static final class string {
         public static final int SubmitMonth=0x7f040000;

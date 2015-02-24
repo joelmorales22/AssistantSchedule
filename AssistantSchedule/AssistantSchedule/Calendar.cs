@@ -3,13 +3,14 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
 using Android.App;
 using Android.Content;
 using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using Android.Provider;
+using Java.Util;
 
 namespace AssistantSchedule
 {
@@ -143,22 +144,19 @@ namespace AssistantSchedule
 				for (int i=1; i < 32; i++){
 					if (allChecks[i].Checked){dates.Add(i);}
 				}
-				int[] newDates = new int[32];
-				for (int i=dates.First(); i<dates.Last(); i++){
-					newDates[i]=dates[i];
+				//string[] newDates = new string[32];
+				IList <string> newDates = new List<string>{ };
+				for (int i=0; i<dates.Count(); i++){
+					newDates.Add(dates[i].ToString());
 				}
 				var finalPage = new Intent(this, typeof(ConfirmDates));
 				finalPage.PutExtra ("CurrentMonth",CurrentMonth);
-				finalPage.PutExtra ("dates", newDates);
+				finalPage.PutStringArrayListExtra ("newDates", newDates);
 				StartActivity(finalPage);
 			};
 
 
 			}
-
-
-
-
 
 	}
 

@@ -172,11 +172,29 @@ namespace AssistantSchedule
 			// aapt resource value: 0x7f060000
 			public const int DisplayMonth = 2131099648;
 			
+			// aapt resource value: 0x7f06002c
+			public const int SelectAccount = 2131099692;
+			
 			// aapt resource value: 0x7f060029
-			public const int myButton = 2131099689;
+			public const int addSampleEvent = 2131099689;
+			
+			// aapt resource value: 0x7f060028
+			public const int calAccountName = 2131099688;
 			
 			// aapt resource value: 0x7f060027
-			public const int spinner3 = 2131099687;
+			public const int calDisplayName = 2131099687;
+			
+			// aapt resource value: 0x7f06002e
+			public const int eventStartDate = 2131099694;
+			
+			// aapt resource value: 0x7f06002d
+			public const int eventTitle = 2131099693;
+			
+			// aapt resource value: 0x7f060031
+			public const int myButton = 2131099697;
+			
+			// aapt resource value: 0x7f06002f
+			public const int spinner3 = 2131099695;
 			
 			// aapt resource value: 0x7f060026
 			public const int submitCalendar = 2131099686;
@@ -199,8 +217,14 @@ namespace AssistantSchedule
 			// aapt resource value: 0x7f060022
 			public const int tableRow5 = 2131099682;
 			
-			// aapt resource value: 0x7f060028
-			public const int textView1 = 2131099688;
+			// aapt resource value: 0x7f060030
+			public const int textView1 = 2131099696;
+			
+			// aapt resource value: 0x7f06002a
+			public const int tv1 = 2131099690;
+			
+			// aapt resource value: 0x7f06002b
+			public const int tv2 = 2131099691;
 			
 			static Id()
 			{
@@ -219,10 +243,19 @@ namespace AssistantSchedule
 			public const int calendar = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int confirmDates = 2130903041;
+			public const int CalListItem = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int Main = 2130903042;
+			public const int ChooseAccount = 2130903042;
+			
+			// aapt resource value: 0x7f030003
+			public const int confirmDates = 2130903043;
+			
+			// aapt resource value: 0x7f030004
+			public const int EventList = 2130903044;
+			
+			// aapt resource value: 0x7f030005
+			public const int Main = 2130903045;
 			
 			static Layout()
 			{
