@@ -1,0 +1,5 @@
+AssistantSchedule.MainActivity;assistantschedule.MainActivity
+AssistantSchedule.Calendar;assistantschedule.Calendar
+AssistantSchedule.ConfirmDates;assistantschedule.ConfirmDates
+AssistantSchedule.ChooseAccount;assistantschedule.ChooseAccount
+AssistantSchedule.EventList;assistantschedule.EventList
